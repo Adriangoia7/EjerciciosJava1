@@ -45,11 +45,12 @@ public class Coche {
 
     // Método main para probar
     public static void main(String[] args) {
-        // Crear objeto con constructor sin parámetros
+
+        // Creo unobjeto con constructor sin parámetros
         Coche coche1 = new Coche();
         System.out.println("Coche 1: Marca = " + coche1.getMarca() + ", Modelo = " + coche1.getModelo());
 
-        // Crear objeto con constructor con parámetros
+        // Creo  objeto con constructor con parámetros
         Coche coche2 = new Coche("Toyota", "Corolla");
         System.out.println("Coche 2: Marca = " + coche2.getMarca() + ", Modelo = " + coche2.getModelo());
     }
