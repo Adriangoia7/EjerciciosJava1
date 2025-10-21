@@ -2,7 +2,7 @@ package ut01.bloque3;
 
 import java.util.Scanner;
 
-public class Actividad13 {
+public class actividad13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

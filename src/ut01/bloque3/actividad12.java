@@ -1,5 +1,5 @@
 package ut01.bloque3;
-public class Actividad12 {
+public class actividad12 {
     public static void main(String[] args) {
      
      // Pongo la cabecera de la tabla de verdad

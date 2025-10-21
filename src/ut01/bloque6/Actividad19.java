@@ -1,6 +1,6 @@
 package ut01.bloque6;
 
-mport java.util.Scanner;
+import java.util.Scanner;
 
 public class Actividad19 {
     public static void main(String[] args) {

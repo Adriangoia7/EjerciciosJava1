@@ -1,6 +1,6 @@
 package ut01.bloque1;
 
-    public class DatosPersonales {
+    public class Actividad06 {
     public static void main(String[] args) {
         String nombre = "Adrian", apellidos = "Goya Sferle", poblacion = "Alfarp", iniciales = "A G";
         char inicialNombre = 'A';
@@ -16,7 +16,7 @@ package ut01.bloque1;
             "Población: " + poblacion + "\n" +
             "Edad: " + edad + "\n" +
             "¿Cree que va a aprobar? " + apruebopro + "\n" +
-            "Horas semanales de estudio: " + horasEstudia
+            "Horas semanales de estudio: " + horasestudio
         );
     }
 

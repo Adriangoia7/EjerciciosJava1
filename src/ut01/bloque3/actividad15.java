@@ -1,6 +1,6 @@
 package ut01.bloque3;
 
-public class Actividad15 {
+public class actividad15 {
     public static void main(String[] args) {
         double precioBase = 120;
         double descuento = 0.15;

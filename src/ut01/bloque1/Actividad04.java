@@ -1,6 +1,7 @@
 package ut01.bloque1;
-import java.util.*
-public class EntradaSalida {
+
+import java.util.Scanner;
+public class Actividad04 {
     public static void main (String arg[]){
         Scanner tec = new Scanner(System.in);
         int a, b;

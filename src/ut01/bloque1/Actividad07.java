@@ -2,7 +2,7 @@ package ut01.bloque1;
 
 import java.util.*;
 
-public class DatosPersonales {
+public class Actividad07 {
     public static void main(String[] args) {
         Scanner tec = new Scanner(System.in);
 

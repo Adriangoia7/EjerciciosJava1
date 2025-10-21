@@ -1,3 +1,5 @@
+package ut01.bloque6;
+
 import java.util.Scanner;
 
 public class Actividad23 {
@@ -7,6 +9,7 @@ public class Actividad23 {
         System.out.print("Pon un número real: ");
         double num = sc.nextDouble();
 
+        double redondeado = Math.round(num * 10.0) / 10.0;
         System.out.println("El número " + num + ", redondeado a un decimal es " + redondeado);
 
         sc.close();
