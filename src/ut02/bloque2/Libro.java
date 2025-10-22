@@ -98,7 +98,7 @@ public class Libro {
         System.out.println("Ejemplares prestados: " + ejemplaresPrestados);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {    
         Libro libroInformatica1 = new Libro("Java Básico", "Ana Asins", "McGraw-Hill", 3, 0);
         System.out.println(libroInformatica1.getTitulo());
         libroInformatica1.setEditorial("Anaya");
