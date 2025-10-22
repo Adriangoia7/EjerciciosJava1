@@ -39,7 +39,7 @@ public class Cuenta {
 
    
     public void mostrarDatos() {
-        System.out.println("Titular: " + titular + ", Cantidad: " + cantidad);
+        System.out.println("titular: " + titular + ", cantidad: " + cantidad);
     }
 
     public void ingresar(double cantidad) {
