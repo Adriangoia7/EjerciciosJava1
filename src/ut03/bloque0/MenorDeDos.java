@@ -1,4 +1,4 @@
-package ut03;
+package ut03.bloque0;
 
 import java.util.Scanner;
 public class MenorDeDos {
