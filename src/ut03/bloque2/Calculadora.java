@@ -2,8 +2,6 @@ package ut03.bloque2;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class Calculadora {
     public static double calcular(double num1, char operador, double num2) {
         if (operador == '+') {
