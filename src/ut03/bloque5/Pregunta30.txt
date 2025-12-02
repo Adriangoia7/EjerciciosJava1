@@ -1,0 +1,2 @@
+1. Si cambio el 42 por un String que no son numeros, se lanza NumberFormatException en el try y entra en el catch: Valor al final del catch: 43, Valor al final de finally: 44, Valor antes del return: 45, 45
+2. Si cambio el 1 amarillo por Integer.parseInt("a"), el try y el finally se ejecutan bien, pero luego Integer.parseInt("a") lanza NumberFormatException fuera del try, se salta el return y en main se ve: Valor al final del try: 44, Valor al final de finally: 45, Excepcion en el metodo(), NumberFormatException.
