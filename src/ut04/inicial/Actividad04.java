@@ -36,6 +36,6 @@ public class Actividad04 {
 
         sc.close();
     }
-            
+    
 
 }
