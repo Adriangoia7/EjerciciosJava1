@@ -21,6 +21,4 @@ public class AulaMusica extends Aula {
         System.out.println("Aula de música: ");
         super.mostrarDatos();
     }
-
-   
 }
