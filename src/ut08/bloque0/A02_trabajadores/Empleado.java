@@ -1,4 +1,4 @@
-package ut08.A02_trabajadores;
+package ut08.bloque0.A02_trabajadores;
 
 public class Empleado {
     protected String dni, nombre, apellidos, turno;

@@ -1,4 +1,4 @@
-package ut08.A04_animales;
+package ut08.bloque0.A04_animales;
 
 public abstract class Animal {
     protected String nombre;

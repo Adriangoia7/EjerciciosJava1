@@ -1,4 +1,4 @@
-package ut08.A01_centroestudios;
+package ut08.bloque0.A01_centroestudios;
 
 public class AulaInformatica extends Aula {
     private int ordenadores;

@@ -1,4 +1,4 @@
-package ut08.A01_centroestudios;
+package ut08.bloque0.A01_centroestudios;
 
 public class Aula {
     protected int codigo;

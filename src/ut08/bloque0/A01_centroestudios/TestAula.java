@@ -1,4 +1,4 @@
-package ut08.A01_centroestudios;
+package ut08.bloque0.A01_centroestudios;
 
 public class TestAula {
     public static void main(String[] args) {

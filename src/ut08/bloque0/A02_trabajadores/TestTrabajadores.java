@@ -1,4 +1,4 @@
-package ut08.A02_trabajadores;
+package ut08.bloque0.A02_trabajadores;
 
 public class TestTrabajadores {
     public static void main(String[] args) {
